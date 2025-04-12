@@ -1,5 +1,3 @@
-// src/presenters/TodoPresenter.ts
-
 import TodoModel, { Todo, useTodoModel } from '../models/Todo';
 import { TodoViewInterface } from '../views/interfaces/TodoViewInterface';
 
